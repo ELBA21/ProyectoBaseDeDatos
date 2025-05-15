@@ -65,3 +65,11 @@ Ahora puedes importar modelos y usar SQLAlchemy normalmente con la base de datos
 
 * Las migraciones quedan en `alembic/versions/`.
 * Usa `alembic downgrade -1` si necesitas deshacer una migración.
+
+---
+## Integrantes
+
+* Andres Hernandez Perez 
+* Agustin Osores
+* Leonardo Jofre
+* Benjamin Martinez H
